@@ -1,0 +1,20 @@
+{
+  "name": "NDI POS",
+  "short_name": "NDI POS",
+  "start_url": "https://script.google.com/macros/s/AKfycbzScthQalcGLZktYVV0RSNxDDmeF1bwwucVm_e7j9_zn9Q4dTXZtQk54Tuu2U4Q0zZEzg/exec",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#b91c1c",
+  "icons": [
+    {
+      "src": "https://res.cloudinary.com/dfosoa6uo/image/upload/v1769445597/NDI_f0zrua.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://res.cloudinary.com/dfosoa6uo/image/upload/v1769445597/NDI_f0zrua.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
